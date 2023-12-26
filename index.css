@@ -101,7 +101,7 @@
     display: grid;
     grid: 400px/auto auto auto ;
     grid-gap:40px;
-     padding: 60px;
+/*      padding: 60px; */
    justify-content: center;
    background-color:seagreen; 
    margin-top: 30px;  
@@ -311,7 +311,7 @@
   width: 945px;
   display: grid;
   grid:450px /auto auto auto ;
-  padding:50px;
+/*   padding:50px; */
   
   
 }
@@ -443,7 +443,7 @@ img{
   grid-template-columns: auto; 
    grid-gap: 100px;
 
-  padding:10px 20px 10px 20px;
+/*   padding:10px 20px 10px 20px; */
    width: 900px;
 /*    height: 900vh;   */
   
