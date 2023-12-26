@@ -309,7 +309,6 @@
     }
   .rating{
   width: 945px;
-  height:200vh;
   display: grid;
   grid:450px /auto auto auto ;
   padding:50px;
@@ -446,7 +445,7 @@ img{
 
   padding:10px 20px 10px 20px;
    width: 900px;
-   height: 900vh;  
+/*    height: 900vh;   */
   
   
  
